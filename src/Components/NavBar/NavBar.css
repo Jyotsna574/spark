@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Abhaya+Libre:wght@500&family=Lato:ital@1&family=Merriweather&family=Montserrat&family=Mulish:wght@500&family=Sora:wght@500&display=swap');
+
+.brand-name{
+	color: #fff;
+	font-weight: bold;
+	font-family: 'Sora', sans-serif;
+	font-size: 2rem;
+}
+.hyper-text{
+	color : #fff !important;
+	font-family: 'Lato', sans-serif;
+	font-weight: bold;
+	font-size: 1.2rem;
+	margin-right: 1rem;
+}
+.navbar-nav{
+	padding-left: 30px !important;
+}
+.navbar-toggler{
+	border-color: #fff !important;
+}
+.collapsable-navdiv{
+	text-align: center !important;
+}

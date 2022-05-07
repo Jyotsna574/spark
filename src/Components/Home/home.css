@@ -1,0 +1,69 @@
+.hero-header{
+    margin-bottom: 6rem;
+    padding: 12rem 0 9rem 0;
+    background: url(./images/shape-bottom.png) center bottom no-repeat;
+    line-height: 1.5;
+}
+@media (max-width: 991.98px) {
+    .hero-header {
+        padding: 6rem 0 9rem 0;
+    }
+}
+
+.bg-primary {
+    background-color: #764AF1 !important;
+}
+
+.home-col{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.home-image{
+   width : 90%;
+}
+
+.home-header-text{
+    color: white;
+    font-family: 'Montserrat';
+}
+.home-header-quote{
+    color:white;
+    font-family: 'Sora';
+}
+
+.home-test{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+}
+.home-row{
+    max-width: 100vw;
+}
+
+
+
+.home-icon{
+  font-size: 4rem !important;
+  padding: 5px;
+  color:blueviolet
+}
+.home-icon:hover{
+    color:#764AF1;
+}
+
+.home-desc{
+    line-height: 1;
+    font-family: 'Montserrat',sans-serif;
+}
+.home-dsc-title{
+    font-family: 'Lato',sans-serif;
+    font-weight: bold;
+    font-size: 1.75rem;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}

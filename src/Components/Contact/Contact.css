@@ -1,0 +1,26 @@
+.contact-wrapper {
+  display: flex;
+  justify-content: center;
+  overflow: hidden;
+}
+.contact-card {
+  margin-bottom: 10px;
+  margin-top: 20px;
+}
+.contact-card-title,
+.contact-designation {
+  text-align: center;
+}
+.social-media {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+.contact-phone{
+    font-size: 1.8rem;
+    color: #3B5998;
+}
+.contact-google{
+    font-size: 1.8rem;
+    color: #db5a3c;
+}
